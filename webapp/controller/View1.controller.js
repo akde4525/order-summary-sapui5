@@ -8,7 +8,7 @@ sap.ui.define([
 
     return Controller.extend("ordersummary.controller.View1", {
         onInit() {
-            
+           
         },
         onReadAll: function(){
             var that = this;
